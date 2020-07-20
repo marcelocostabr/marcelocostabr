@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Marcelo 👋
+
+🤓 Computer Systems Analyst Student at [UNICID](https://www.unicid.edu.br) <br>
+🇧🇷 Born and living in São Paulo, Brazil <br>
+
+### Find me elsewhere 🌎
+
+🚀 [Site](https://marcelocosta.com.br) <br>
+🐦 [Twitter](https://twitter.com/mcosta_br) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/marcelo-costa-br/) <br>
 
 <!--
 **marcelocostabr/marcelocostabr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
