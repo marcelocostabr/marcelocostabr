@@ -1,6 +1,7 @@
 ### Hi there, I'm Marcelo 👋
 
-🤓 Computer Systems Analyst Student at [UNICID](https://www.unicid.edu.br) <br>
+🤓 Computer Systems Analyst <br>
+🤓 Lawyer Student at [UNIP](https://www.unip.br)
 🇧🇷 Born and living in São Paulo, Brazil <br>
 
 ### Find me elsewhere 🌎
